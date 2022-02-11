@@ -5,7 +5,7 @@ import (
 	"github.com/gin-gonic/gin"
 	swaggerFiles "github.com/swaggo/files"
 	ginSwagger "github.com/swaggo/gin-swagger"
-	v1 "github.com/imK3/fabric_evi_web/routers/api/v1"
+	v1 "github.com/imK3/evi_web/routers/api/v1"
 	"net/http"
 	"strings"
 )

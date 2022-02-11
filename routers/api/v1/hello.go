@@ -2,7 +2,7 @@ package v1
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/imK3/fabric_evi_web/pkg/app"
+	"github.com/imK3/evi_web/pkg/app"
 	"net/http"
 )
 

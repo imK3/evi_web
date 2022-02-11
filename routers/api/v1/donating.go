@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/gin-gonic/gin"
-	bc "github.com/imK3/fabric_evi_web/blockchain"
-	"github.com/imK3/fabric_evi_web/pkg/app"
+	bc "github.com/imK3/evi_web/blockchain"
+	"github.com/imK3/evi_web/pkg/app"
 	"net/http"
 )
 

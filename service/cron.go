@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/robfig/cron/v3"
-	bc "github.com/imK3/fabric_evi_web/blockchain"
-	"github.com/imK3/fabric_evi_web/lib"
+	bc "github.com/imK3/evi_web/blockchain"
+	"github.com/imK3/evi_web/lib"
 	"log"
 	"time"
 )
